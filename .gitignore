@@ -6,3 +6,4 @@
 *.zip
 models/*
 test_morphs/*
+*.DS_Store
